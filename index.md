@@ -18,7 +18,7 @@ your HPC systems.
 
 ## Topics
 
-1.  [Cluster Architecture](01-one.html)
+1.  [Cluster Architecture](01-arch.html)
 2.  [Why Use a Scheduler](02-two.html)
 3.  [Running interactive jobs](02-two.html)
 4.  [Submit jobs to the Queue from the Command Line](02-two.html)
